@@ -4,4 +4,4 @@ Django
 gunicorn
 pip
 psycopg2-binary # https://github.com/psycopg/psycopg2/issues
-brotli
+
